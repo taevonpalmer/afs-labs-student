@@ -1,4 +1,4 @@
--- #test commit file
+-- #testing commit file
 -- PostgreSQL database dump
 --
 
