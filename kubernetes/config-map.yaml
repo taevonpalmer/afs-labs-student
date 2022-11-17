@@ -4,4 +4,4 @@ metadata:
   name: feature-toggle
   namespace: tpalmer
 data:
-  LOCATION_FEATURE_ENABLED: "True"
+  LOCATION_FEATURE_ENABLED: "False"
